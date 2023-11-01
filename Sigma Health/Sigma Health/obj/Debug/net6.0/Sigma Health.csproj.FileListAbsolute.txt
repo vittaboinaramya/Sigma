@@ -1,0 +1,32 @@
+E:\Ramya\Sigma\Sigma Health\Sigma Health\bin\Debug\net6.0\appsettings.Development.json
+E:\Ramya\Sigma\Sigma Health\Sigma Health\bin\Debug\net6.0\appsettings.json
+E:\Ramya\Sigma\Sigma Health\Sigma Health\bin\Debug\net6.0\Sigma Health.exe
+E:\Ramya\Sigma\Sigma Health\Sigma Health\bin\Debug\net6.0\Sigma Health.deps.json
+E:\Ramya\Sigma\Sigma Health\Sigma Health\bin\Debug\net6.0\Sigma Health.runtimeconfig.json
+E:\Ramya\Sigma\Sigma Health\Sigma Health\bin\Debug\net6.0\Sigma Health.dll
+E:\Ramya\Sigma\Sigma Health\Sigma Health\bin\Debug\net6.0\Sigma Health.pdb
+E:\Ramya\Sigma\Sigma Health\Sigma Health\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Ramya\Sigma\Sigma Health\Sigma Health\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Ramya\Sigma\Sigma Health\Sigma Health\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Ramya\Sigma\Sigma Health\Sigma Health\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Ramya\Sigma\Sigma Health\Sigma Health\obj\Debug\net6.0\Sigma Health.csproj.AssemblyReference.cache
+E:\Ramya\Sigma\Sigma Health\Sigma Health\obj\Debug\net6.0\Sigma Health.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ramya\Sigma\Sigma Health\Sigma Health\obj\Debug\net6.0\Sigma Health.AssemblyInfoInputs.cache
+E:\Ramya\Sigma\Sigma Health\Sigma Health\obj\Debug\net6.0\Sigma Health.AssemblyInfo.cs
+E:\Ramya\Sigma\Sigma Health\Sigma Health\obj\Debug\net6.0\Sigma Health.csproj.CoreCompileInputs.cache
+E:\Ramya\Sigma\Sigma Health\Sigma Health\obj\Debug\net6.0\Sigma Health.MvcApplicationPartsAssemblyInfo.cs
+E:\Ramya\Sigma\Sigma Health\Sigma Health\obj\Debug\net6.0\Sigma Health.MvcApplicationPartsAssemblyInfo.cache
+E:\Ramya\Sigma\Sigma Health\Sigma Health\obj\Debug\net6.0\staticwebassets\msbuild.Sigma Health.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Ramya\Sigma\Sigma Health\Sigma Health\obj\Debug\net6.0\staticwebassets\msbuild.build.Sigma Health.props
+E:\Ramya\Sigma\Sigma Health\Sigma Health\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Sigma Health.props
+E:\Ramya\Sigma\Sigma Health\Sigma Health\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Sigma Health.props
+E:\Ramya\Sigma\Sigma Health\Sigma Health\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Ramya\Sigma\Sigma Health\Sigma Health\obj\Debug\net6.0\staticwebassets.build.json
+E:\Ramya\Sigma\Sigma Health\Sigma Health\obj\Debug\net6.0\staticwebassets.development.json
+E:\Ramya\Sigma\Sigma Health\Sigma Health\obj\Debug\net6.0\scopedcss\bundle\Sigma Health.styles.css
+E:\Ramya\Sigma\Sigma Health\Sigma Health\obj\Debug\net6.0\Sigma Health.csproj.CopyComplete
+E:\Ramya\Sigma\Sigma Health\Sigma Health\obj\Debug\net6.0\Sigma Health.dll
+E:\Ramya\Sigma\Sigma Health\Sigma Health\obj\Debug\net6.0\refint\Sigma Health.dll
+E:\Ramya\Sigma\Sigma Health\Sigma Health\obj\Debug\net6.0\Sigma Health.pdb
+E:\Ramya\Sigma\Sigma Health\Sigma Health\obj\Debug\net6.0\Sigma Health.genruntimeconfig.cache
+E:\Ramya\Sigma\Sigma Health\Sigma Health\obj\Debug\net6.0\ref\Sigma Health.dll
